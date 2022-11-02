@@ -1,5 +1,6 @@
 import React from "react";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
+import Link from "next/link";
 function Goods() {
   return (
     <div className="Goods">
@@ -70,7 +71,7 @@ function Goods() {
             </div>
             <div className="products_wrapper">
               <div className="product">
-                <a href="/card">
+                <Link href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/new.png" />
@@ -92,10 +93,10 @@ function Goods() {
                       </div>
                     </div>
                   </div>
-                </a>
+                </Link>
               </div>
               <div className="product">
-                <a href="/card">
+                <Link href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/new2.png" />
@@ -114,10 +115,10 @@ function Goods() {
                       </div>
                     </div>
                   </div>
-                </a>
+                </Link>
               </div>
               <div className="product">
-                <a href="/card">
+                <Link href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item3.png" />
@@ -136,7 +137,7 @@ function Goods() {
                       </div>
                     </div>
                   </div>
-                </a>
+                </Link>
               </div>
               <div className="product">
                 <a href="/card">
