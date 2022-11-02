@@ -41,7 +41,7 @@ function Goods() {
           <div className="top_section">
             <div className="this_page">
               <p>
-                <a href="">
+                <a href="/card">
                   Заявки <ChevronRightIcon />
                 </a>{" "}
                 <span>Оформить заказ</span>
@@ -70,7 +70,7 @@ function Goods() {
             </div>
             <div className="products_wrapper">
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/new.png" />
@@ -95,7 +95,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/new2.png" />
@@ -117,7 +117,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item3.png" />
@@ -139,7 +139,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item4.png" />
@@ -164,7 +164,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item2.png" />
@@ -189,7 +189,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item1.png" />
@@ -214,7 +214,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item1.png" />
@@ -239,7 +239,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item1.png" />
@@ -264,7 +264,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item1.png" />
@@ -289,7 +289,7 @@ function Goods() {
                 </a>
               </div>
               <div className="product">
-                <a href="">
+                <a href="/card">
                   <div className="product_wrapper">
                     <div className="product_image">
                       <img className="item_image" src="images/item1.png" />
