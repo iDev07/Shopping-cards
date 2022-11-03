@@ -1,2 +1,2 @@
 # Shopping-cards
-This test task for new company
+This is test task for new company
